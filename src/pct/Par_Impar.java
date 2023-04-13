@@ -18,10 +18,10 @@ public class Par_Impar {
     public static void main(String[] args) {
         //Declaração de variáveis
         int n;
-        
+        /* 
         //Criação e instância do objeto de entrada
         Scanner entrada = new Scanner(System.in);
-        /* 
+        
         //Apresentação para o usuário
         System.out.println("\n\t\t\t -- Par ou Impar --\n");
         
