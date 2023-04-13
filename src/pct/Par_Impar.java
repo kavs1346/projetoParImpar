@@ -7,6 +7,8 @@ package pct;
 
 import java.util.Scanner;
 
+import javax.swing.JOptionPane;
+
 
 /**
  *
@@ -19,7 +21,7 @@ public class Par_Impar {
         
         //Criação e instância do objeto de entrada
         Scanner entrada = new Scanner(System.in);
-        
+        /*
         //Apresentação para o usuário
         System.out.println("\n\t\t\t -- Par ou Impar --\n");
         
@@ -33,6 +35,8 @@ public class Par_Impar {
         }else{
             System.out.println(n + " é impar!\n");
         }
+        */
+        JOptionPane.showMessageDialog(null, "Gilberto");
         
     }
     
